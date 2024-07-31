@@ -6,7 +6,7 @@ Malsha's Portfolio website
 
 ⭐ Don't forget to star this repo on GitHub — it means a lot!
 
-[![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/0871063/malshac0871063.github.io/commits/master)
+[![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/0871063/malshac0871063.github.io/commits/main/)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://malshac0871063.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/malsha-parani-depakarage-93615474/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
