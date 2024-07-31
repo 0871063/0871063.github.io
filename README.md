@@ -35,7 +35,7 @@ Malsha's Portfolio website
 - Add or remove images in the `images` folder as needed.
 - Update the `portfolio` folder with your own content.
 - Use [GitHub Pages](https://pages.github.com/) to launch your site.
-- To deploy your site, create a GitHub repository named `<your-github-username>.github.io` and push the modified code to the `master` branch.
+- To deploy your site, create a GitHub repository named `<your-github-username>.github.io` and push the modified code to the `main` branch.
 
 ## Sections 📚
 ✔️ Home\
