@@ -18,6 +18,9 @@ Malsha's Portfolio website
 #### About Section
 <img src="website-images/AboutPreview.png" width="900">
 
+#### Skills Section
+<img src="website-images/SkillsPreview.png" width="900">
+
 #### Contact Section
 <img src="website-images/ContactPreview.png" width="900">
 
