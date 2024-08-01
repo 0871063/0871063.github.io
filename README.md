@@ -1,13 +1,13 @@
-# malshac0871063.github.io
+# 0871063.github.io
 Malsha's Portfolio website
 
 # My Portfolio Site ✨
-> https://malshac0871063.github.io/
+> https://0871063.github.io/
 
 ⭐ Don't forget to star this repo on GitHub — it means a lot!
 
-[![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/0871063/malshac0871063.github.io/commits/main/)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://malshac0871063.github.io/)
+[![Maintained](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/0871063/0871063.github.io/commits/main/)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://0871063.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/malsha-parani-depakarage-93615474/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
